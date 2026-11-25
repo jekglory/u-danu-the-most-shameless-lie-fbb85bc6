@@ -39,7 +39,12 @@ The v1 line is kept only in this note and in git history, never submitted.
 
 ## Repo / submit
 - Repo: jekglory/u-danu-the-most-shameless-lie-fbb85bc6 (public, MIT)
-- Commit: (fill after push)
-- Bundle: (fill after bundle)
-- Check tally: (fill after check)
+- Commit v1: 2c686f4b30237cfaa7ad64a4f09cb07fc6126d0e (10-word line, superseded)
+- Commit v2: 99f27c0b46a9e37bc1e0b6da1a8e983b45de55bf ("I read the terms.")
+- Submit attempt 1 (v2): REFUSED HTTP 422 repo_not_owned — no .makefun/owner.json.
+  Counts toward the 50/day per-competition limit (1 used), NOT the day quota.
+  Fix: committed .makefun/owner.json {"wallet": "8rCWeW..."} (same file the
+  u-mgwals entry carries), new commit e47cf08ebabb12fd3a89276d8d888ab420e543b5.
+- Bundle: (fill after re-bundle)
+- Check tally: (fill after re-check)
 - Submission ID: (fill after submit, or READY-TO-SUBMIT if quota blocks)
